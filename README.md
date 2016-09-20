@@ -1,3 +1,3 @@
-# J2EE
-Java 项目资源库edit master
+# J2EE edit
+Java 项目资源库 master
 hello world! I'm  here
